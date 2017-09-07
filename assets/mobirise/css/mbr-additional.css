@@ -1,0 +1,61 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 24px;
+}
+#header1-1 H1 {
+  color: #ffffff;
+  text-align: left;
+  font-size: 60px;
+}
+#header1-1 P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 22px;
+}
+#header1-1 B {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #ffffff;
+}
+#menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-a .mbr-brand__name a {
+  font-size: 24px;
+}
+#msg-box5-g .mbr-header__text {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box5-g .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-g .mbr-article {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box5-g .btn {
+  font-size: 16px;
+}
